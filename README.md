@@ -30,6 +30,8 @@ SecuAudit performs an automated security audit on a Linux machine by:
 - UFW (Uncomplicated Firewall)
 
 ### 🚀 Run the Script
-
 ```bash
+git clone https://github.com/Charanx03/SecuAudit.git
+cd SecuAudit
 python3 SecuAudit.py
+```
