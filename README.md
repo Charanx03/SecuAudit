@@ -20,6 +20,12 @@ SecuAudit performs an automated security audit on a Linux machine by:
 
 ---
 
+## 📁 contents
+`SecuAudit.py`:Python script that performs essential Linux hardening checks and generates a compliance score.
+
+`README.md`:Overview of the project and repository (this file).
+
+---
 ## ⚙️ How to Use
 
 ### 🔧 Requirements
